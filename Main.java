@@ -1,9 +1,9 @@
-// author: Ariya Rasekh <ariya.rasekh@gmail.com>
-//Making new objects using
-
+/*
+	author: Ariya Rasekh <ariya.rasekh@gmail.com>
+*/
 import java.util.Scanner;
 import java.util.Arrays;
-public class Main1{
+public class Main{
 
 
 	public static void main(String[] args) {
@@ -110,16 +110,6 @@ public class Main1{
 					break;
 				case 3:
 					System.out.println(i[1].author);
-					//String bo[] = new String [3];
-					//int c=0;
-					//for(int j=0;j<3;j++) {
-					//	if (i[j].Title.equalsIgnoreCase("Book")) {
-					//		bo[c] = i[j].author;
-					//		c++;
-					//	}
-					//}
-					//Arrays.sort(bo);
-					//Arrays.toString(bo);
 					break;
 				case 4:
 					break;
