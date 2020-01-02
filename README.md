@@ -1,2 +1,3 @@
 # inventory
-Add or Remove( purchase) an item like an inventory
+Simple Java Program to simulate an inventory
+Item can be selected from Gift Card, Shoe and Book 
